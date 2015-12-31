@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fd50d98-9684-433f-ae75-659202be5469" name="Default" comment="" />
+    <ignored path="Бот.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Бот" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/ADS/Solve/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!block;n#debug#0" expanded="false" />
+                <element signature="e#242#262#0" expanded="false" />
+                <element signature="e#291#310#0" expanded="false" />
+                <element signature="e#355#375#0" expanded="false" />
+                <element signature="e#401#418#0" expanded="false" />
+                <element signature="n#!!block;n#read#0" expanded="false" />
+                <element signature="n#!!block;n#mainF#0" expanded="false" />
+                <element signature="e#807#811#0" expanded="false" />
+                <element signature="e#842#860#0" expanded="false" />
+                <element signature="e#905#925#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/DEBUG/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/ADS/freshMEM/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding>
+                <element signature="n#!!block;n#createDefaultFolder#0" expanded="false" />
+                <element signature="e#1602#1734#0" expanded="false" />
+                <element signature="e#3446#3468#0" expanded="false" />
+                <element signature="e#3501#3522#0" expanded="false" />
+                <element signature="e#3552#3571#0" expanded="false" />
+                <element signature="e#3610#3746#0" expanded="false" />
+                <element signature="e#3775#3779#0" expanded="false" />
+                <element signature="e#3815#4496#0" expanded="false" />
+                <element signature="e#4141#4195#0" expanded="false" />
+                <element signature="n#!!block;n#read#0" expanded="false" />
+                <element signature="n#!!block;n#validUrl#0" expanded="false" />
+                <element signature="n#!!block;n#addUrl#0" expanded="false" />
+                <element signature="n#!!block;n#delUrl#0" expanded="false" />
+                <element signature="n#!!block;n#logUrls#0" expanded="false" />
+                <element signature="n#!!block;n#loadUrls#0" expanded="false" />
+                <element signature="n#!!block;n#saveUrls#0" expanded="false" />
+                <element signature="e#6310#6332#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="freshMEM.debug" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node_modules/DEBUG/freshMEM.debug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0327553">
+              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="package_json" />
+        <option value="Html5" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/DB/onlineUsers.js" />
+        <option value="$PROJECT_DIR$/node_modules/DB/mongoose.js" />
+        <option value="$PROJECT_DIR$/node_modules/DB/createObj.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/SAY.js" />
+        <option value="$PROJECT_DIR$/node_modules/request/lib/cookies.js" />
+        <option value="$PROJECT_DIR$/node_modules/HTMLPARSER/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/HTMLPARSER/asdasd.html" />
+        <option value="$PROJECT_DIR$/node_modules/asd.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/ANSWER.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/SKR.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/TTT.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/WIKIPEDIA.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/sad.html" />
+        <option value="$PROJECT_DIR$/koi7.js" />
+        <option value="$PROJECT_DIR$/node_modules/MyModules/decodeUtf8/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/TABLE.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/freshMEM.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/MINES.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/Wolfram.js" />
+        <option value="$PROJECT_DIR$/as.html" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/BALDA/words.txt" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/BALDA/package.json" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/BALDA/nouns.json" />
+        <option value="$PROJECT_DIR$/asd.txt" />
+        <option value="$PROJECT_DIR$/node_modules/MyModules/SolveString/inde.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/freshMEM/urls.json" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/freshMEM/thurls.json.ts" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/freshMEM/folderCreator.js" />
+        <option value="$PROJECT_DIR$/node_modules/MyModules/Creator.js" />
+        <option value="$PROJECT_DIR$/node_modules/MyModules/SolveString/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/freshMEM/urls/103699249/urls.json" />
+        <option value="$PROJECT_DIR$/HelloWorld.js" />
+        <option value="$PROJECT_DIR$/.gitattributes" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/freshMEM/config.json" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/freshMEM/urls/126850076/urls.json" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/freshMEM/urls/126850076/package.json" />
+        <option value="$PROJECT_DIR$/s.html" />
+        <option value="$PROJECT_DIR$/node_modules/MyModules/folderCreator/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/answer.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/ANSWER/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/BALDA/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/MINES/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/SKR/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/Solve/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/TABLE/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/TTT/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/WIKIPEDIA/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/ROOTAD.js" />
+        <option value="$PROJECT_DIR$/node_modules/DEBUG/undefined.debug" />
+        <option value="$PROJECT_DIR$/node_modules/DEBUG/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/ADS/freshMEM/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="32" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Бот" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Бот" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Бот" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Бот" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Бот" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Бот" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Бот" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DEBUG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\serne_000\Desktop\Бот\node_modules" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\serne_000\Desktop\Бот\node_modules\ADS\WIKIPEDIA" />
+      <recent name="C:\Users\serne_000\Desktop\Бот\node_modules\ADS\TABLE" />
+      <recent name="C:\Users\serne_000\Desktop\Бот\node_modules\ADS\SKR" />
+      <recent name="C:\Users\serne_000\Desktop\Бот\node_modules\ADS\MINES" />
+      <recent name="C:\Users\serne_000\Desktop\Бот\node_modules\ADS\ANSWER" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.index.js (1)">
+    <configuration default="false" name="HelloWorld.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="HelloWorld.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="folderCreator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="folderCreator.js" working-dir="$PROJECT_DIR$/node_modules/ADS/freshMEM">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.js (3)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/node_modules/MyModules/folderCreator">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/node_modules/ADS/freshMEM">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/node_modules/DEBUG">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.HelloWorld.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.folderCreator.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.index.js (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.index.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.index.js (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.HelloWorld.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.index.js (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.index.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.index.js (3)" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.folderCreator.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fd50d98-9684-433f-ae75-659202be5469" name="Default" comment="" />
+      <created>1450082829531</created>
+      <option name="number" value="Default" />
+      <updated>1450082829531</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="32" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.248125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28683183" sideWeight="0.5075" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28683183" sideWeight="0.4925" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39895698" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="57" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/Solve/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#debug#0" expanded="false" />
+            <element signature="e#242#262#0" expanded="false" />
+            <element signature="e#291#310#0" expanded="false" />
+            <element signature="e#355#375#0" expanded="false" />
+            <element signature="e#401#418#0" expanded="false" />
+            <element signature="n#!!block;n#read#0" expanded="false" />
+            <element signature="n#!!block;n#mainF#0" expanded="false" />
+            <element signature="e#807#811#0" expanded="false" />
+            <element signature="e#842#860#0" expanded="false" />
+            <element signature="e#905#925#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/freshMEM/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#createDefaultFolder#0" expanded="false" />
+            <element signature="e#1602#1734#0" expanded="false" />
+            <element signature="e#3446#3468#0" expanded="false" />
+            <element signature="e#3501#3522#0" expanded="false" />
+            <element signature="e#3552#3571#0" expanded="false" />
+            <element signature="e#3610#3746#0" expanded="false" />
+            <element signature="e#3775#3779#0" expanded="false" />
+            <element signature="e#3815#4496#0" expanded="false" />
+            <element signature="e#4141#4195#0" expanded="false" />
+            <element signature="n#!!block;n#read#0" expanded="false" />
+            <element signature="n#!!block;n#validUrl#0" expanded="false" />
+            <element signature="n#!!block;n#addUrl#0" expanded="false" />
+            <element signature="n#!!block;n#delUrl#0" expanded="false" />
+            <element signature="n#!!block;n#logUrls#0" expanded="false" />
+            <element signature="n#!!block;n#loadUrls#0" expanded="false" />
+            <element signature="n#!!block;n#saveUrls#0" expanded="false" />
+            <element signature="e#6310#6332#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/freshMEM/urls/103699249/urls.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/MyModules/SolveString/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!block;n#leter#0" expanded="false" />
+            <element signature="e#386#407#0" expanded="false" />
+            <element signature="e#467#488#0" expanded="false" />
+            <element signature="e#549#580#0" expanded="false" />
+            <element signature="e#644#672#0" expanded="false" />
+            <element signature="e#736#764#0" expanded="false" />
+            <element signature="n#!!block;n#opInd#0" expanded="false" />
+            <element signature="e#2212#3031#0" expanded="false" />
+            <element signature="e#2773#3021#0" expanded="false" />
+            <element signature="n#!!block;n#findLNum#0" expanded="false" />
+            <element signature="n#!!block;n#findRNum#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/MyModules/folderCreator/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!block;n#haveFolder#0" expanded="false" />
+            <element signature="n#!!block;n#createFile#0" expanded="false" />
+            <element signature="n#!!block;n#writeFile#0" expanded="false" />
+            <element signature="n#!!block;n#read#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/TTT/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/answer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="118" column="26" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!block;n#reader#0" expanded="false" />
+            <element signature="n#!!block;n#addReader#0" expanded="false" />
+            <element signature="n#!!block;n#findR#0" expanded="false" />
+            <element signature="n#!!block;n#command#0" expanded="false" />
+            <element signature="n#!!block;n#addCommand#0" expanded="false" />
+            <element signature="n#!!block;n#info#0" expanded="false" />
+            <element signature="e#1253#2418#0" expanded="false" />
+            <element signature="e#2221#2302#0" expanded="false" />
+            <element signature="e#2463#2483#0" expanded="false" />
+            <element signature="e#2512#2582#0" expanded="false" />
+            <element signature="e#2612#2685#0" expanded="false" />
+            <element signature="e#2713#2948#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#309#330#0" expanded="false" />
+            <element signature="e#409#566#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/TTT/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="398" column="2" selection-start-line="398" selection-start-column="2" selection-end-line="398" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/answer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!block;n#reader#0" expanded="false" />
+            <element signature="n#!!block;n#addReader#0" expanded="false" />
+            <element signature="n#!!block;n#findR#0" expanded="false" />
+            <element signature="n#!!block;n#command#0" expanded="false" />
+            <element signature="n#!!block;n#addCommand#0" expanded="false" />
+            <element signature="n#!!block;n#info#0" expanded="false" />
+            <element signature="e#1253#2418#0" expanded="false" />
+            <element signature="e#2221#2302#0" expanded="false" />
+            <element signature="e#2463#2483#0" expanded="false" />
+            <element signature="e#2512#2582#0" expanded="false" />
+            <element signature="e#2612#2685#0" expanded="false" />
+            <element signature="e#2713#2948#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#309#330#0" expanded="false" />
+            <element signature="e#409#566#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/TTT/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="100" column="14" selection-start-line="100" selection-start-column="14" selection-end-line="100" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/answer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#reader#0" expanded="false" />
+            <element signature="n#!!block;n#addReader#0" expanded="false" />
+            <element signature="n#!!block;n#findR#0" expanded="false" />
+            <element signature="n#!!block;n#command#0" expanded="false" />
+            <element signature="n#!!block;n#addCommand#0" expanded="false" />
+            <element signature="n#!!block;n#info#0" expanded="false" />
+            <element signature="e#1253#2418#0" expanded="false" />
+            <element signature="e#2221#2302#0" expanded="false" />
+            <element signature="e#2463#2483#0" expanded="false" />
+            <element signature="e#2512#2582#0" expanded="false" />
+            <element signature="e#2612#2685#0" expanded="false" />
+            <element signature="e#2713#2948#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/node-telegram-bot-api-master/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/request/lib/har.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/request/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/request/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6365639">
+          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/request/lib/cookies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/cheerio/lib/api/css.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/node_modules/node-telegram-bot-api/src/telegram.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="110" column="14" selection-start-line="110" selection-start-column="14" selection-end-line="110" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/asd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025525525">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/рабстол/Проекты/JSHTML/Chat/SERVER/pageChanger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/MyModules/decodeUtf8/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/cheerio/node_modules/css-select/node_modules/css-what/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33267716">
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/request/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33267716">
+          <caret line="1034" column="9" selection-start-line="1034" selection-start-column="9" selection-end-line="1034" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/BALDA/lemma.num">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="32617" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/BALDA/loadVerbs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/BALDA/words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30157" column="20" selection-start-line="30157" selection-start-column="20" selection-end-line="30157" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/BALDA/nouns.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="569.0769">
+          <caret line="0" column="138317" selection-start-line="0" selection-start-column="138317" selection-end-line="0" selection-end-column="138317" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/MyModules/SolveString/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!block;n#leter#0" expanded="false" />
+            <element signature="e#386#407#0" expanded="false" />
+            <element signature="e#467#488#0" expanded="false" />
+            <element signature="e#549#580#0" expanded="false" />
+            <element signature="e#644#672#0" expanded="false" />
+            <element signature="e#736#764#0" expanded="false" />
+            <element signature="n#!!block;n#opInd#0" expanded="false" />
+            <element signature="e#2212#3031#0" expanded="false" />
+            <element signature="e#2773#3021#0" expanded="false" />
+            <element signature="n#!!block;n#findLNum#0" expanded="false" />
+            <element signature="n#!!block;n#findRNum#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/freshMEM/urls/103699249/urls.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="e#309#330#0" expanded="false" />
+            <element signature="e#409#566#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/freshMEM/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9615384">
+          <caret line="3" column="75" selection-start-line="3" selection-start-column="75" selection-end-line="3" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/freshMEM/urls/126850076/signs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/freshMEM/urls/126850076/urls.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="232" selection-start-line="0" selection-start-column="232" selection-end-line="0" selection-end-column="232" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6545453">
+          <caret line="72" column="100" selection-start-line="72" selection-start-column="77" selection-end-line="72" selection-end-column="100" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#div#3;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/MyModules/folderCreator/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!block;n#haveFolder#0" expanded="false" />
+            <element signature="n#!!block;n#createFile#0" expanded="false" />
+            <element signature="n#!!block;n#writeFile#0" expanded="false" />
+            <element signature="n#!!block;n#read#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/answer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#reader#0" expanded="false" />
+            <element signature="n#!!block;n#addReader#0" expanded="false" />
+            <element signature="n#!!block;n#findR#0" expanded="false" />
+            <element signature="n#!!block;n#command#0" expanded="false" />
+            <element signature="n#!!block;n#addCommand#0" expanded="false" />
+            <element signature="n#!!block;n#info#0" expanded="false" />
+            <element signature="e#1253#2418#0" expanded="false" />
+            <element signature="e#2221#2302#0" expanded="false" />
+            <element signature="e#2463#2483#0" expanded="false" />
+            <element signature="e#2512#2582#0" expanded="false" />
+            <element signature="e#2612#2685#0" expanded="false" />
+            <element signature="e#2713#2948#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/ANSWER/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/BALDA/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/MINES/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/SKR/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/TABLE/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/TTT/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!block;n#read1#0" expanded="false" />
+            <element signature="e#9060#9077#0" expanded="false" />
+            <element signature="n#!!block;n#mainF#0" expanded="false" />
+            <element signature="e#9874#10358#0" expanded="false" />
+            <element signature="e#10081#10242#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/WIKIPEDIA/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/ROOTAD.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2620424">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <element signature="e#197#217#0" expanded="false" />
+            <element signature="e#246#265#0" expanded="false" />
+            <element signature="e#310#330#0" expanded="false" />
+            <element signature="e#356#373#0" expanded="false" />
+            <element signature="e#406#410#0" expanded="false" />
+            <element signature="e#435#439#0" expanded="false" />
+            <element signature="e#470#488#0" expanded="false" />
+            <element signature="e#533#553#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/Solve/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!block;n#debug#0" expanded="false" />
+            <element signature="e#242#262#0" expanded="false" />
+            <element signature="e#291#310#0" expanded="false" />
+            <element signature="e#355#375#0" expanded="false" />
+            <element signature="e#401#418#0" expanded="false" />
+            <element signature="n#!!block;n#read#0" expanded="false" />
+            <element signature="n#!!block;n#mainF#0" expanded="false" />
+            <element signature="e#807#811#0" expanded="false" />
+            <element signature="e#842#860#0" expanded="false" />
+            <element signature="e#905#925#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/DEBUG/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/DEBUG/undefined.debug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ADS/freshMEM/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!block;n#createDefaultFolder#0" expanded="false" />
+            <element signature="e#1602#1734#0" expanded="false" />
+            <element signature="e#3446#3468#0" expanded="false" />
+            <element signature="e#3501#3522#0" expanded="false" />
+            <element signature="e#3552#3571#0" expanded="false" />
+            <element signature="e#3610#3746#0" expanded="false" />
+            <element signature="e#3775#3779#0" expanded="false" />
+            <element signature="e#3815#4496#0" expanded="false" />
+            <element signature="e#4141#4195#0" expanded="false" />
+            <element signature="n#!!block;n#read#0" expanded="false" />
+            <element signature="n#!!block;n#validUrl#0" expanded="false" />
+            <element signature="n#!!block;n#addUrl#0" expanded="false" />
+            <element signature="n#!!block;n#delUrl#0" expanded="false" />
+            <element signature="n#!!block;n#logUrls#0" expanded="false" />
+            <element signature="n#!!block;n#loadUrls#0" expanded="false" />
+            <element signature="n#!!block;n#saveUrls#0" expanded="false" />
+            <element signature="e#6310#6332#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/DEBUG/freshMEM.debug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0327553">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
